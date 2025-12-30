@@ -1,20 +1,41 @@
 [
-    {
-        "id": 1,
-        "image": "idea.svg",
-        "title": "Where ideas meet reaity",
-        "description": "We transform bold concepts into impactful digital experiences, blending strategy, design, and technology to bring ideas to life."
-    },
-    {
-        "id": 2,
-        "image": "lead.svg",
-        "title": "Finding leads in a busy world",
-        "description": "Smart lead-generation strategies that cut through the noise and connect your brand with the right audience at the right time."
-    },
-    {
-        "id": 3,
-        "image": "tip.svg",
-        "title": "10 Tips to increase traffic",
-        "description": "Proven digital marketing insights to drive more visitors, boost visibility, and grow your online presence effectively."
-    }
+  {
+    "id": 1,
+    "image": "idea.svg",
+    "title": "Where ideas meet reaity",
+    "description": "We transform bold concepts into impactful digital experiences, blending strategy, design, and technology to bring ideas to life.",
+    "content": [
+      "Every great digital product starts with an idea — but ideas alone are not enough. Turning vision into reality requires strategy, structure, and execution. This is where creativity meets discipline.",
+      "Many businesses have strong ideas but struggle to define them clearly. We begin by asking the right questions: Who is this for? What problem does it solve? How does it create value? By refining the concept, we turn abstract ideas into clear, actionable plans.",
+      "Design is more than aesthetics. It’s about usability, consistency, and communication. We focus on creating interfaces that feel intuitive, modern, and aligned with your brand — ensuring every visual choice supports the user experience.",
+      "Behind every successful digital experience is a solid technical foundation. From performance optimization to scalable architecture, we build solutions that are reliable today and ready for tomorrow.",
+      "When strategy, design, and technology work together, ideas don’t stay ideas — they become products, platforms, and experiences that drive real results."
+    ]
+  },
+  {
+    "id": 2,
+    "image": "lead.svg",
+    "title": "Finding leads in a busy world",
+    "description": "Smart lead-generation strategies that cut through the noise and connect your brand with the right audience at the right time.",
+    "content": [
+      "In a digital landscape filled with ads, content, and constant noise, capturing attention has never been more challenging. The key to finding leads today is relevance, not volume.",
+      "Effective lead generation starts with knowing who you’re speaking to. We analyze behavior, intent, and pain points to ensure your message reaches the people who are most likely to convert.",
+      "Generic messaging gets ignored. Personalized content, targeted campaigns, and clear value propositions help your brand stand out. By focusing on quality interactions, we create meaningful connections instead of empty clicks.",
+      "Rather than chasing short-term wins, we design lead-generation systems that work continuously. Automation, analytics, and optimization ensure consistent growth over time.",
+      "Finding leads isn’t about being everywhere — it’s about being in the right place, with the right message, at the right moment."
+    ]
+  },
+  {
+    "id": 3,
+    "image": "tip.svg",
+    "title": "10 Tips to increase traffic",
+    "description": "Proven digital marketing insights to drive more visitors, boost visibility, and grow your online presence effectively.",
+    "content": [
+      "Increasing traffic isn’t about tricks or shortcuts. Sustainable growth comes from smart strategies, consistency, and a deep understanding of how users discover and engage with your content.",
+      "High-value content attracts the right audience. When visitors find answers, they stay longer, engage more, and return.",
+      "Traffic growth compounds over time. By investing in SEO, performance, and usability, you build a strong digital presence that doesn’t rely on paid ads alone.",
+      "Here are 10 practical tips to grow your traffic effectively: Create content that solves real problems; Optimize for search intent, not just keywords; Improve page speed and performance; Use clear, compelling headlines; Leverage internal linking; Publish consistently; Focus on mobile experience; Use data to guide decisions; Promote content strategically; Continuously test and refine.",
+      "Traffic is a result, not a goal. Focus on delivering value, and growth will follow naturally."
+    ]
+  }
 ]
