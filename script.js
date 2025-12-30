@@ -10,7 +10,7 @@ fetch('blog.json')
                 <div class="blog-card-content">
                     <h2>${post.title}</h2>
                     <p>${post.description}</p>
-                    <button>Read more</button>
+                    <button onclick="window.location.href='post.html?id=${post.id}'">Read more</button>
                 </div>
             `;
             container.appendChild(article);
